@@ -1,0 +1,8 @@
+pandas==1.5.3
+numpy==1.24.2
+pip==23.0.1
+streamlit
+scikit-learn
+matplotlib
+seaborn
+scikit-plot
