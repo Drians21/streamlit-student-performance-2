@@ -5,7 +5,7 @@ st.write('---')
 
 st.write("""
 #### :blue[Korelasi Positif]
-Korelasi antara variabel independen dengan dependen semuanya bernilai positif yang artinya semakin baik variabel dependen maka semakin baik juga variabel independennya.
+Korelasi antara variabel independen dengan dependen semuanya bernilai positif yang artinya semakin baik variabel independen maka semakin baik juga variabel dependennya.
 
 #### :blue[Hasil klasifikasi]
 Dalam model ini kami melakukan klasifikasi karena data tersebut memiliki kategori yang sesuai dengan klasifikasi salah satunya datanya lebih ke categorical. Sehinggan prediksi tidak bisa dilakukan untuk data ini.
